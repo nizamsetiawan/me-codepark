@@ -10,8 +10,15 @@ export default function About() {
       </div>
       <div className="flex flex-col gap-4">
         <p className="text-start text-muted-foreground lg:px-6">
-        I embarked on my tech journey as a Software Developer specializing in Mobile Applications. My passion for creating innovative solutions has led me to develop various mobile apps and contribute to numerous tech projects. With over 1+ year of experience in the startup industry, I've honed my skills in Android and iOS development, working with technologies such as Kotlin, Swift, and Flutter.
-
+        I embarked on my tech journey as a Software Developer specializing in Mobile Applications. My passion for creating innovative solutions has led me to develop various mobile apps and contribute to numerous tech projects. With over 1+ year of experience in the startup industry, I've honed my skills in Android and iOS development, working with technologies such as Kotlin, Swift, and Flutter. And earning several relevant {" "} <a
+            className="no-wrap text-primary dark:text-white"
+            href="https://drive.google.com/drive/folders/1Ab9g0XKzWZaidj_YuBVFT7A0UrwfOrOW?usp=sharing"
+            target="blank"
+            rel="noopener noreferrer"
+          >
+            certifications.
+          </a>  
+          {" "}
         </p>
         <p className="text-start  text-muted-foreground lg:px-6">
         My professional path includes roles
